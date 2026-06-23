@@ -167,3 +167,6 @@ planning.md, and made the final call on every ambiguous Critique vs. Opinion cas
 
 # Demo Recording
 This is the link to Loom video https://www.loom.com/share/4159a4742f4145f9b45c3a73f40c6e08 
+ 
+# Google Colab Link
+This is the colab notebook link https://colab.research.google.com/drive/1CJwyIKFF6fWVodqFoc1nHss_U0rWSJZF?usp=sharing
